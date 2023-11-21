@@ -1,0 +1,8 @@
+﻿  Skipping CUDA source file scan_org.cu (excluded from build).
+  main.cpp
+C:\Users\User\source\repos\CUDApart2\CUDApart2\getopt.h(14,30): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\User\source\repos\CUDApart2\CUDApart2\main.cpp(60,11): warning C4244: '초기화 중': '__int64'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\User\source\repos\CUDApart2\CUDApart2\main.cpp(127,19): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+     C:\Users\User\source\repos\CUDApart2\x64\Debug\CUDApart2.lib 라이브러리 및 C:\Users\User\source\repos\CUDApart2\x64\Debug\CUDApart2.exp 개체를 생성하고 있습니다.
+LINK : warning LNK4098: 'LIBCMT' defaultlib가 다른 라이브러리와 충돌합니다. /NODEFAULTLIB:library를 사용하십시오.
+  CUDApart2.vcxproj -> C:\Users\User\source\repos\CUDApart2\x64\Debug\CUDApart2.exe
